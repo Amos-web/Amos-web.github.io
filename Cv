@@ -120,13 +120,5 @@ Institution	:	Ting’a Furaha Academy</p>
     <br>
     <br>
     <img src="/storage/emulated/0/Pictures/1573318120926.jpg" alt="Amos Onyonka"width="300"height="600">
-        <h2>This is my video</h2>
-        <video src="/storage/emulated/0/xender/video/VID-20190916-WA0001.mp4"
-            poster="/storage/emulated/0/Download/images.jpg"
-            preload
-            controls
-            loop>
-            <p> video of a troublesome girlfriend</p>
-        </video>
     </body>
 </html>
